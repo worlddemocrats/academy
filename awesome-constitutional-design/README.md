@@ -81,6 +81,6 @@ A curated list of world-class resources, tools, and communities for understandin
 
 Contributions are welcome! Please make sure to read the [contributing guide](CONTRIBUTING.md) before making a pull request.
 
-Thank you to all the [contributors](https://github.com/worlddemocrats/academy/awesome-constitutional-design/graphs/contributors), you're awesome!
+Thank you to all the contributors, you're awesome!
 
 This Awesome List is not affiliated with, sponsored by, or endorsed by any of the organizations, services, or projects that are linked to in this list. It is simply a list of resources that the maintainer(s) find interesting or useful.
