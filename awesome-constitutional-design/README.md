@@ -22,27 +22,25 @@ A curated list of world-class resources, tools, and communities for understandin
 
 ## Articles
 
-- [The Democratic Backsliding and the European constitutional design in error](https://verfassungsblog.de/the-democratic-backsliding-and-the-european-constitutional-design-in-error-when-how-meets-why/) - This blog post discusses the democratic backsliding and the European constitutional design.
-- [Failures in constitutional design are at the heart of the crisis in western democracies](https://theloop.ecpr.eu/failures-in-constitutional-design-are-at-the-heart-of-the-crisis-in-western-democracies/) This blog post discusses the failures in constitutional design at the heart of the crisis in Western democracies.
 - [The Constitution Is More Than Just an Obstacle to Progress](https://www.nytimes.com/2021/05/04/books/review/the-words-that-made-us-akhil-reed-amar.html) - This article discusses the role of the Constitution in the progress of society.
-- [A Stable Constitution For Unstable Times](https://www.hoover.org/research/stable-constitution-unstable-times) by Richard A Epstein - An article discussing the stability of the U.S. Constitution in changing times.
-- [The Constitutional Flaw That’s Killing American Democracy](https://www.theatlantic.com/ideas/archive/2022/08/framers-constitution-democracy/671155/) by Jedediah Britton-Purdy - An article discussing a perceived flaw in the U.S. Constitution.
-- [The Engine of Constitutional Reform](https://democracyjournal.org/magazine/61/the-engine-of-constitutional-reform/) by Jack Meserve - An article exploring the mechanisms of constitutional reform.
-- [The World’s Most Difficult Constitution to Amend?](https://californialawreview.org/print/the-worlds-most-difficult-constitution-to-amend/) by Richard Albert - A scholarly article discussing the amendment process of the U.S. Constitution.
-- [What If We Wrote the Constitution Today?](https://www.theatlantic.com/ideas/archive/2020/12/what-if-we-could-rewrite-constitution/617304/) by Jeffrey Rosen - An article imagining a modern rewrite of the U.S. Constitution.
-- [10 reasons why America's first constitution failed](https://constitutioncenter.org/blog/10-reasons-why-americas-first-constitution-failed) - Discusses the reasons why America's first constitution failed and led to the creation of the current U.S. Constitution.
+- [A Stable Constitution For Unstable Times](https://www.hoover.org/research/stable-constitution-unstable-times) - An article discussing the stability of the U.S. Constitution in changing times.
+- [The Engine of Constitutional Reform](https://democracyjournal.org/magazine/61/the-engine-of-constitutional-reform/) - An article exploring the mechanisms of constitutional reform.
+- [The World’s Most Difficult Constitution to Amend?](https://californialawreview.org/print/the-worlds-most-difficult-constitution-to-amend/) - A scholarly article discussing the amendment process of the U.S. Constitution.
+- [Failures in constitutional design are at the heart of the crisis in western democracies](https://theloop.ecpr.eu/failures-in-constitutional-design-are-at-the-heart-of-the-crisis-in-western-democracies/) - This blog post discusses the failures in constitutional design at the heart of the crisis in Western democracies.
+- [The Democratic Backsliding and the European constitutional design in error](https://verfassungsblog.de/the-democratic-backsliding-and-the-european-constitutional-design-in-error-when-how-meets-why/) - This blog post discusses the democratic backsliding and the European constitutional design.
 - [Constitutional Design](https://harvardlawreview.org/forum/vol-128/constitutional-design/) - This article from the Harvard Law Review discusses various aspects of constitutional design.
+- [The Constitution Needs a Reboot](https://www.politico.com/magazine/story/2018/09/05/new-constitution-change-amendment-law-219586/) - This article from Politico discusses the need for a "reboot" of the U.S. Constitution.
 
 ## Online Courses
 
-- [Constitutional Law](https://www.edx.org/course/constitutional-law) on edX - A course that provides a comprehensive introduction to constitutional law.
-- [Constitutional Struggles in the Muslim World](https://www.coursera.org/learn/constitutional-struggles) on Coursera - A course that explores constitutional struggles in the Muslim world.
-- [Constitutional Interpretation](https://www.coursera.org/learn/constitutional-interpretation) on Coursera - A course that focuses on the interpretation of constitutions.
-- [Constitutional Reform in Africa](https://www.futurelearn.com/courses/constitutional-reform) on FutureLearn - A course that discusses constitutional reform in Africa.
-- [Constitutional Law and Policy](https://www.coursera.org/learn/constitutional-law-policy) on Coursera - A course that provides an overview of constitutional law and policy.
-- [America's Unwritten Constitution](https://www.coursera.org/learn/unwritten-constitution) on Coursera - A course exploring the unwritten aspects of the U.S. Constitution.
-- [America's Written Constitution](https://www.coursera.org/learn/written-constitution) on Coursera - A course examining the written U.S. Constitution.
-- [Online Courses](https://www.montpelier.org/center-for-the-constitution/online-courses) from Montpelier Center for the Constitution - A range of online courses covering various aspects of the U.S. Constitution.
+- [American Government: Constitutional Foundations](https://www.edx.org/course/american-government-constitutional-foundations) - This course is offered by Harvard University through edX. It provides an understanding of how early American politics informed the U.S. Constitution.
+- [U.S. Political Institutions: Congress, Presidency, Courts, and Bureaucracy](https://www.edx.org/course/us-political-institutions-congress-presidency-cour) - Also offered by Harvard University through edX, this course examines the inner workings of the three branches of the U.S. Federal Government.
+- [We the People: Civic Engagement in a Constitutional Democracy](https://www.edx.org/course/civic-engagement-in-us-democracy) - This course, offered by the University of Pennsylvania through edX, provides foundational knowledge of American constitutional democracy while helping you craft your own civic voice and identity.
+- [Constitutional Interpretation](https://www.edx.org/course/constitutional-interpretation) - A course that provides a comprehensive introduction to constitutional law.
+- [Constitutional Struggles in the Muslim World](https://www.coursera.org/learn/muslim-world) - A course that explores constitutional struggles in the Muslim world.
+- [Introduction to Key Constitutional Concepts and Supreme Court Cases](https://www.coursera.org/learn/constitution) - A course that provides an overview of constitutional law and policy.
+- [America's Unwritten Constitution](https://www.coursera.org/learn/unwritten-constitution) - A course exploring the unwritten aspects of the U.S. Constitution.
+- [America's Written Constitution](https://www.coursera.org/learn/written-constitution) - A course examining the written U.S. Constitution.
 
 ## Research Papers
 
