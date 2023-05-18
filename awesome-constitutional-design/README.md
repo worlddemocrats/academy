@@ -5,31 +5,20 @@ A curated list of world-class resources, tools, and communities for understandin
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Articles](#articles)
 - [Online Courses](#online-courses)
-- [Research Papers](#research-papers)
 - [Books](#books)
-- [Organizations](#organizations-and-projects)
+- [Research Papers](#research-papers)
+- [Articles and Blog Posts](#articles-and-blog-posts)
+- [Organizations](#organizations)
+- [Tools](#tools)
 
 ## Introduction
 
 
 - [A Practical Guide to Constitution Building](https://www.idea.int/sites/default/files/publications/chapters/practical-guide-to-constitution-building/a-practical-guide-to-constitution-building-chapter-5.pdf) - A comprehensive overview of the process of creating a constitution.
-- [Guide to Government](https://www.guidetogovernment.org/) - This website provides a comprehensive guide to understanding government and constitutional design.
 - [America's Founding Documents](https://www.archives.gov/founding-docs) - This resource provides access to America's founding documents, including the Declaration of Independence, the Constitution of the United States, and the Bill of Rights.
-- [Historical Context: The Constitution and Slavery](https://www.gilderlehrman.org/history-resources/teaching-resource/historical-context-constitution-and-slavery) - This resource provides historical context for the Constitution and slavery, offering a unique perspective on constitutional design.
+- [Guide to Government](https://www.guidetogovernment.org/) - This website provides a comprehensive guide to understanding government and constitutional design.
 - [Constitute](https://www.constituteproject.org/) - This is a comprehensive analysis of the world's constitutions, supporting constitutional design and informing citizens.
-
-## Articles
-
-- [The Constitution Is More Than Just an Obstacle to Progress](https://www.nytimes.com/2021/05/04/books/review/the-words-that-made-us-akhil-reed-amar.html) - This article discusses the role of the Constitution in the progress of society.
-- [A Stable Constitution For Unstable Times](https://www.hoover.org/research/stable-constitution-unstable-times) - An article discussing the stability of the U.S. Constitution in changing times.
-- [The Engine of Constitutional Reform](https://democracyjournal.org/magazine/61/the-engine-of-constitutional-reform/) - An article exploring the mechanisms of constitutional reform.
-- [The World’s Most Difficult Constitution to Amend?](https://californialawreview.org/print/the-worlds-most-difficult-constitution-to-amend/) - A scholarly article discussing the amendment process of the U.S. Constitution.
-- [Failures in constitutional design are at the heart of the crisis in western democracies](https://theloop.ecpr.eu/failures-in-constitutional-design-are-at-the-heart-of-the-crisis-in-western-democracies/) - This blog post discusses the failures in constitutional design at the heart of the crisis in Western democracies.
-- [The Democratic Backsliding and the European constitutional design in error](https://verfassungsblog.de/the-democratic-backsliding-and-the-european-constitutional-design-in-error-when-how-meets-why/) - This blog post discusses the democratic backsliding and the European constitutional design.
-- [Constitutional Design](https://harvardlawreview.org/forum/vol-128/constitutional-design/) - This article from the Harvard Law Review discusses various aspects of constitutional design.
-- [The Constitution Needs a Reboot](https://www.politico.com/magazine/story/2018/09/05/new-constitution-change-amendment-law-219586/) - This article from Politico discusses the need for a "reboot" of the U.S. Constitution.
 
 ## Online Courses
 
@@ -42,31 +31,45 @@ A curated list of world-class resources, tools, and communities for understandin
 - [America's Unwritten Constitution](https://www.coursera.org/learn/unwritten-constitution) - A course exploring the unwritten aspects of the U.S. Constitution.
 - [America's Written Constitution](https://www.coursera.org/learn/written-constitution) - A course examining the written U.S. Constitution.
 
-## Research Papers
-
-- [Constitutional Design: An Oxymoron?](https://www.cambridge.org/core/journals/design-science/article/constitutional-design-an-oxymoron/3D5A6D5C9E7B5A6A4F33A8992B2F2203) by David Robertson - This article discusses the challenges and paradoxes in the design of constitutions.
-- [Constitutional Design and Democratic Performance](https://www.jstor.org/stable/1952531) by Arend Lijphart - A research paper discussing the impact of constitutional design on democratic performance.
-- [Constitutional Design: Proposals versus Processes](https://www.jstor.org/stable/25054142) by Jon Elster - This paper discusses the difference between constitutional proposals and processes.
-- [Constitutional design for dynamic democracies](https://academic.oup.com/icon/article/20/2/580/6633772) - This article discusses a framework for constitutional design in dynamic democracies.
-- [The Choice of Political Institutions: A Rational Actor Theory of Constitutional Design](https://www.jstor.org/stable/25054143) by Torsten Persson and Guido Tabellini - A research paper proposing a rational actor theory of constitutional design.
-- [Constitutional Design and the Problem of Adoption](https://www.cambridge.org/core/journals/world-politics/article/abs/constitutional-design-and-the-problem-of-adoption/2F3F1F9F2B65D8F9F8D4E94A1A3F173E) by Stephen L. Elkin - This paper discusses the challenges of adopting a new constitution.
-- [Constitutional Design, Identity and Legitimacy in the Middle East](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/constitutional-design-identity-and-legitimacy-in-the-middle-east/8B9F1B80F7A7D7C4F5B1334F4092A5A9) by Amaney A. Jamal and Mark Tessler - A research paper discussing constitutional design in the context of the Middle East.
-
 ## Books
 
-- [Comparative Constitutional Design](https://www.amazon.com/Comparative-Constitutional-Design-Law-Policy/dp/110766537X)
-- [Constitutional Design: A Mixed-Methods Study on Institutional Choice and Design in Post-Conflict Democracies](https://www.cambridge.org/core/books/constitutional-design/06B48D129AE956C78BE219EB259AE1A6) - A comprehensive book that explores the various factors and considerations involved in constitutional design, with a focus on post-conflict democracies.
-- [Designing Federalism in Theory and Practice](https://www.cambridge.org/core/books/designing-federalism-in-theory-and-practice/12C573B86FBD380BFDDE3E3505A3B82B) - This book examines the theoretical foundations and practical aspects of designing federal systems of government, providing insights into the challenges and opportunities they present.
-- [Hidden Laws: How State Constitutions Stabilize American Politics](https://www.amazon.com/Hidden-Laws-Constitutions-Stabilize-American/dp/0300248695) by Robinson Woodward-Burns - A book exploring the role of state constitutions in American politics.
-- [The Invisible Constitution (Inalienable Rights)](https://www.amazon.com/Invisible-Constitution-Inalienable-Rights/dp/019530425X) - A book discussing the unwritten aspects of constitutions.
-- [The Constitution in 2020](https://www.amazon.com/Constitution-2020-Jack-M-Balkin/dp/0195387961) - A book discussing the future of constitutional design.
-- [How to Interpret the Constitution](https://www.kirkusreviews.com/book-reviews/cass-r-sunstein/how-to-interpret-the-constitution/) by Richard H Thaler and Cass R Sunstein - A guide on how to interpret the U.S. Constitution.
-- [Principles of Constitutional Design](https://www.cambridge.org/us/academic/subjects/politics-international-relations/comparative-politics/principles-constitutional-design?format=PB) - A comprehensive resource on the principles of constitutional design.
-- [The Anti-Oligarchy Constitution](https://www.hup.harvard.edu/catalog.php?isbn=9780674980624&content=reviews) by Joseph Fishkin and William E. Forbath - A book discussing the role of the constitution in preventing oligarchy.
-- [Constitutional Design for Divided Societies]([https.com/Constitutional-Design-Divided-Societies-Accommodation/dp/0199535418](https://global.oup.com/academic/product/constitutional-design-for-divided-societies-9780199535415)) - A book discussing the design of constitutions for societies that are divided.
 - [The Federalist Papers](https://www.congress.gov/resources/display/content/The+Federalist+Papers) - A collection of 85 articles and essays written by Alexander Hamilton, James Madison, and John Jay promoting the ratification of the United States Constitution.
+- [Comparative Constitutional Design](https://www.amazon.com/Comparative-Constitutional-Design-Law-Policy/dp/110766537X) - This book examines the design of constitutions from a comparative perspective, highlighting the choices that different nations and systems have made.
+- [Principles of Constitutional Design](https://www.cambridge.org/us/academic/subjects/politics-international-relations/comparative-politics/principles-constitutional-design?format=PB) - A comprehensive resource on the principles of constitutional design.
+- [The Anti-Oligarchy Constitution](https://www.hup.harvard.edu/catalog.php?isbn=9780674980624&content=reviews) - A book discussing the role of the constitution in preventing oligarchy.
+- [The Constitution in 2020](https://www.amazon.com/Constitution-2020-Jack-M-Balkin/dp/0195387961) - A book discussing the future of constitutional design.
+- [The Invisible Constitution (Inalienable Rights)](https://www.amazon.com/Invisible-Constitution-Inalienable-Rights/dp/019530425X) - A book discussing the unwritten aspects of constitutions.
+- [How to Interpret the Constitution](https://www.kirkusreviews.com/book-reviews/cass-r-sunstein/how-to-interpret-the-constitution/) - A guide on how to interpret the U.S. Constitution.
+- [Constitutional Design for Divided Societies](https://global.oup.com/academic/product/constitutional-design-for-divided-societies-9780199535415) - A book discussing the design of constitutions for societies that are divided.
+- [Borrowing Constitutional Designs: Constitutional Law in Weimar Germany and the French Fifth Republic](https://press.princeton.edu/books/paperback/9780691146720/borrowing-constitutional-designs) - This book provides a comprehensive analysis of how constitutions are copied and adapted from one country to another.
 
-## Organizations and Projects
+## Research Papers
+
+- [Federalism and Constitutional Design](https://muse.jhu.edu/pub/1/article/16797/summary)
+- [Toward a Theory of Constitutional Amendment](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/toward-a-theory-of-constitutional-amendment/9932D2055798BE28EF9CF40BAD4E2F7D)
+- [Bridging Comparative Politics and Comparative Constitutional Law: Constitutional Design for Divided Societies](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1287619)
+- [Deciding not to Decide: Deferral in Constitutional Design](https://academic.oup.com/icon/article/9/3-4/636/657611)
+- [Constitutional Design for Dynamic democracies: A framework for analysis](https://academic.oup.com/icon/article/20/2/580/6633772)
+- [Constitutional Design for Divided Societies](https://muse.jhu.edu/article/54673)
+- [Tiered Constitutional Design](https://heinonline.org/HOL/LandingPage?handle=hein.journals/gwlr86&div=15&id=&page=)
+- [Constitutional Design and Change in Federal Systems: Issues and Questions](https://academic.oup.com/publius/article-abstract/39/2/241/1830152)
+- [Constitutional Design: An Oxymoron?](https://heinonline.org/HOL/LandingPage?handle=hein.journals/nomos42&div=15&id=&page=)
+- [Rational War and Constitutional Design](https://www.jstor.org/stable/20455704)
+- [Constitutional Design and Citizen Electoral Control](https://journals.sagepub.com/doi/abs/10.1177/0951692889001002001?journalCode=jtpa)
+- [Constitutions Unentrenched: Toward an Alternative Theory of Constitutional Design](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/constitutions-unentrenched-toward-an-alternative-theory-of-constitutional-design/21AE9E48DB3263929BD6EAAF5030B65C)
+- [Enumerating Rights: More is not Always Better](https://link.springer.com/article/10.1007/s11127-023-01053-0) - This paper discusses the potential downsides of enumerating too many rights in a constitution, arguing that doing so can actually reduce pro-social behavior.
+
+## Articles and Blog Posts
+
+- [The Constitution Is More Than Just an Obstacle to Progress](https://www.nytimes.com/2021/05/04/books/review/the-words-that-made-us-akhil-reed-amar.html) - This article discusses the role of the Constitution in the progress of society.
+- [A Stable Constitution For Unstable Times](https://www.hoover.org/research/stable-constitution-unstable-times) - An article discussing the stability of the U.S. Constitution in changing times.
+- [The Engine of Constitutional Reform](https://democracyjournal.org/magazine/61/the-engine-of-constitutional-reform/) - An article exploring the mechanisms of constitutional reform.
+- [Failures in Constitutional Design are at the Heart of the Crisis in Western Democracies](https://theloop.ecpr.eu/failures-in-constitutional-design-are-at-the-heart-of-the-crisis-in-western-democracies/) - This blog post discusses the failures in constitutional design at the heart of the crisis in Western democracies.
+- [The Democratic Backsliding and the European Constitutional Design in Error](https://verfassungsblog.de/the-democratic-backsliding-and-the-european-constitutional-design-in-error-when-how-meets-why/) - This blog post discusses the democratic backsliding and the European constitutional design.
+- [Constitutional Design](https://harvardlawreview.org/forum/vol-128/constitutional-design/) - This article from the Harvard Law Review discusses various aspects of constitutional design.
+- [The Constitution Needs a Reboot](https://www.politico.com/magazine/story/2018/09/05/new-constitution-change-amendment-law-219586/) - This article from Politico discusses the need for a "reboot" of the U.S. Constitution.
+
+## Organizations
 
 - [International IDEA](https://www.idea.int/) An intergovernmental organization that supports sustainable democracy worldwide.
 - [The Center for Constitutional Transitions](https://constitutionaltransitions.org/) An organization that generates and mobilizes knowledge in support of constitution building.
