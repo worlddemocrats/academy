@@ -1,71 +1,48 @@
 # World Academy of Politics
 
-Welcome to the World Academy of Politics on GitHub! This repository is dedicated to providing comprehensive learning paths in various areas of politics and political science. Whether you're a student, researcher, or simply interested in understanding the complexities of the political world, our academy offers a range of learning paths to suit your interests.
+Welcome to the World Academy of Politics, an open-source initiative of the World Democrats. Our goal is to provide comprehensive, accessible, and free education to anyone interested in understanding the complexities of politics.
+
+## Our Mission
+
+Our mission is to democratize political education, making it accessible to everyone, everywhere. We believe that a well-informed citizenry is the cornerstone of a healthy democracy, and we're committed to contributing to this goal through this project.
+
+We are dedicated to the continuous evolution of our offerings, ensuring that our content remains relevant, comprehensive, and engaging. We believe in the power of lifelong learning, and we strive to provide resources that cater to the needs of learners at all stages of their educational journey.
 
 ## Learning Paths
 
-### Introduction to Politics
+The World Academy of Politics offers a variety of learning paths, each focusing on a different aspect of politics. Each learning path is designed to provide a comprehensive understanding of its topic, and includes a series of modules that you can follow at your own pace. 
 
-Learn the fundamentals of political science, including the nature and purpose of government, different political systems, and key concepts in politics.
+Here are some of the learning paths we currently offer:
 
-### Political Theory
+1. **Introduction to Politics**: Understand the basics of politics, including political systems, ideologies, and key concepts.
+2. **International Relations**: Dive into the dynamics of international politics, exploring theories of international relations, diplomacy, and global conflicts.
+3. **Political Philosophy**: Explore the philosophical underpinnings of politics, studying the works of key political philosophers and their impact on modern political thought.
+4. **Public Policy**: Learn about the process of creating public policy, including policy analysis, implementation, and evaluation.
 
-Explore various political ideologies and theories, from liberalism and conservatism to socialism and anarchism, and gain a deeper understanding of the ideas that shape political discourse.
-
-### Political History
-
-Discover significant events, movements, and influential figures in political history, both on a global scale and within specific countries.
-
-### International Relations
-
-Dive into the complex realm of international relations, studying the relationships between different countries, diplomatic strategies, international law, and the role of global organizations like the United Nations.
-
-### Public Policy
-
-Gain insights into the process of formulating and implementing government policies, including economic, social, and foreign policy considerations.
-
-### Political Economy
-
-Explore the intersection of politics and economics, examining how political forces influence economic policies and vice versa.
-
-### Political Philosophy
-
-Delve into philosophical questions surrounding politics, such as the nature of justice and the role of the state, and explore different perspectives on these topics.
-
-### Comparative Politics
-
-Compare and contrast various political systems and processes around the world, examining their similarities, differences, and underlying dynamics.
-
-### Political Research Methods
-
-Learn about the methodologies used in political science research, covering qualitative and quantitative methods for gathering and analyzing data.
-
-### Current Affairs
-
-Stay up-to-date with ongoing political events and issues around the world, fostering a deeper understanding of the present-day political landscape.
-
-### Political Communication
-
-Explore the strategies and techniques employed in political messaging, the influence of media in politics, and the impact of digital technologies on political communication.
-
-### Political Leadership
-
-Study theories of leadership, analyze the role of leaders in shaping political outcomes, and develop an understanding of the skills and qualities necessary for effective political leadership.
-
-## Certifications
-
-Upon completion of each learning path, you have the option to obtain a certification to showcase your knowledge and achievement in the respective field.
+We are constantly working on expanding our offerings, so stay tuned for more learning paths in the future!
 
 ## Contributing
 
-We welcome contributions from individuals interested in enhancing the learning experience of the World Political Academy. If you have additional resources, improvements, or new learning paths to propose, please refer to the [contributing guidelines](CONTRIBUTING.md).
+We welcome contributions from everyone. Whether you're a student, teacher, professional, or just someone interested in politics, your perspective and knowledge can help make this project better. 
+
+You can contribute in several ways:
+
+- **Content Creation**: Help us create and improve the learning materials. This could involve writing new content, improving existing content, or creating multimedia materials like videos or infographics.
+- **Code Contributions**: Help us improve the codebase of this project. This could involve fixing bugs, improving the UI/UX, or adding new features.
+- **Feedback**: Provide feedback on the learning materials and the platform. Your feedback can help us improve the learning experience for everyone.
+
+Please see our [Contributing Guide](CONTRIBUTING.md) for more details on how you can contribute to this project.
+
+## Community
+
+We believe in the power of community and collaboration. We encourage you to join our [Discord server](https://discord.gg/yourdiscordlink) or [Facebook group](https://yourworkspace.slack.com) to connect with other learners, share your progress, ask questions, and engage in discussions.
 
 ## License
 
-This repository is licensed under the [MIT License](LICENSE), granting you the freedom to use, modify, and distribute the content within the academy.
+This project is licensed under the [Creative Commons CC0 1.0 Universal License](LICENSE.md). This means you're free to use, modify, and distribute the project, as long as you provide attribution back to us and don’t hold us liable.
 
-## Get Started
+## Contact
 
-To get started with a specific learning path, simply navigate to the corresponding directory and explore the available resources and materials.
+If you have any questions, suggestions, or just want to say hi, feel free to contact us at [academy@worlddemocrats.org](mailto:academy@worlddemocrats.org).
 
-We hope you find the World Academy of Politics a valuable resource for your political education and exploration. Happy learning!
+Join us in our mission to democratize political education!
