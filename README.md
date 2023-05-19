@@ -1,53 +1,71 @@
 # World Political Academy
 
-Welcome to the World Political Academy! This is a collaborative, open-source platform dedicated to providing a comprehensive resource for understanding the multifaceted world of politics. Our aim is to cater to a broad audience, from students and professionals to curious individuals who wish to delve into the complexities of political science.
+Welcome to the World Political Academy on GitHub! This repository is dedicated to providing comprehensive learning paths in various areas of politics and political science. Whether you're a student, researcher, or simply interested in understanding the complexities of the political world, our academy offers a range of learning paths to suit your interests.
 
-## Table of Contents
+## Learning Paths
 
-- [About](#about)
-- [Our Vision](#our-vision)
-- [Getting Started](#getting-started)
-- [Curriculum](#curriculum)
-- [How to Contribute](#how-to-contribute)
-- [Community](#community)
-- [License](#license)
+### Introduction to Politics
 
-## About
+Learn the fundamentals of political science, including the nature and purpose of government, different political systems, and key concepts in politics.
 
-The World Political Academy is an ambitious project that seeks to democratize political science education. We aim to cover a broad spectrum of topics, from the foundational principles of political theory to the intricate dynamics of global politics, and everything in between.
+### Political Theory
 
-## Our Vision
+Explore various political ideologies and theories, from liberalism and conservatism to socialism and anarchism, and gain a deeper understanding of the ideas that shape political discourse.
 
-Our vision is to create an accessible, community-driven platform that breaks down the barriers to political science education. We believe in the power of knowledge and aim to foster a global community of informed, engaged citizens.
+### Political History
 
-## Getting Started
+Discover significant events, movements, and influential figures in political history, both on a global scale and within specific countries.
 
-1. [Sign up](#) for a free GitHub account if you don't have one already.
-2. Browse through our [curriculum](#) and choose a track that interests you.
-3. Dive in and start learning!
+### International Relations
 
-## Curriculum
+Dive into the complex realm of international relations, studying the relationships between different countries, diplomatic strategies, international law, and the role of global organizations like the United Nations.
 
-Our curriculum is meticulously designed to provide a holistic understanding of political science. It is divided into several tracks, each focusing on a different area of political science. Each track consists of modules, which are further divided into lessons. Each lesson includes a reading assignment, a video lecture, and a quiz.
+### Public Policy
 
-- [Introduction to Political Science](#)
-- [Comparative Politics](#)
-- [International Relations](#)
-- [Political Theory](#)
-- [Public Policy](#)
-- [Political Economy](#)
-- [Political Philosophy](#)
+Gain insights into the process of formulating and implementing government policies, including economic, social, and foreign policy considerations.
 
-## How to Contribute
+### Political Economy
 
-We believe in the power of community and welcome contributions from everyone. Whether you're a seasoned political scientist, a passionate educator, or a student just starting out, your insights and expertise can help make the World Political Academy a better resource for everyone.
+Explore the intersection of politics and economics, examining how political forces influence economic policies and vice versa.
 
-Please read our [contributing guide](#) to understand how you can be a part of this project.
+### Political Philosophy
 
-## Community
+Delve into philosophical questions surrounding politics, such as the nature of justice and the role of the state, and explore different perspectives on these topics.
 
-We are more than just a learning platform; we are a community. Join us on [Discord](#) or [Slack](#) to connect with other learners, get help with the curriculum, discuss political issues, and engage in thoughtful debates.
+### Comparative Politics
+
+Compare and contrast various political systems and processes around the world, examining their similarities, differences, and underlying dynamics.
+
+### Political Research Methods
+
+Learn about the methodologies used in political science research, covering qualitative and quantitative methods for gathering and analyzing data.
+
+### Current Affairs
+
+Stay up-to-date with ongoing political events and issues around the world, fostering a deeper understanding of the present-day political landscape.
+
+### Political Communication
+
+Explore the strategies and techniques employed in political messaging, the influence of media in politics, and the impact of digital technologies on political communication.
+
+### Political Leadership
+
+Study theories of leadership, analyze the role of leaders in shaping political outcomes, and develop an understanding of the skills and qualities necessary for effective political leadership.
+
+## Certifications
+
+Upon completion of each learning path, you have the option to obtain a certification to showcase your knowledge and achievement in the respective field.
+
+## Contributing
+
+We welcome contributions from individuals interested in enhancing the learning experience of the World Political Academy. If you have additional resources, improvements, or new learning paths to propose, please refer to the [contributing guidelines](CONTRIBUTING.md).
 
 ## License
 
-The World Political Academy is licensed under the [MIT license](#). This means that our curriculum is free for everyone to use, modify, and distribute. We believe in the power of open-source education and are committed to keeping our content accessible to all.
+This repository is licensed under the [MIT License](LICENSE), granting you the freedom to use, modify, and distribute the content within the academy.
+
+## Get Started
+
+To get started with a specific learning path, simply navigate to the corresponding directory and explore the available resources and materials.
+
+We hope you find the World Political Academy a valuable resource for your political education and exploration. Happy learning!
