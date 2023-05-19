@@ -1,48 +1,47 @@
 # World Academy of Politics
 
-Welcome to the World Academy of Politics, an open-source initiative of the [World Democrats](https://github.com/worlddemocrats/federation). Our goal is to provide comprehensive, accessible, and free education to anyone interested in understanding the complexities of politics.
+Welcome to the World Academy of Politics. We are a leading global initiative established by the World Democrats to create a comprehensive and evolving platform for political education. As advocates for a democratic world government, we recognize the imperative to address critical global challenges. These challenges encompass ethical dimensions of artificial intelligence, effective pandemic responses, climate change mitigation, and nuclear war prevention.
 
-## Our Mission
-
-Our mission is to democratize political education, making it accessible to everyone, everywhere. We believe that a well-informed citizenry is the cornerstone of a healthy democracy, and we're committed to contributing to this goal through this project.
-
-We are dedicated to the continuous evolution of our offerings, ensuring that our content remains relevant, comprehensive, and engaging. We believe in the power of lifelong learning, and we strive to provide resources that cater to the needs of learners at all stages of their educational journey.
+Our vision at the World Democrats extends beyond these immediate challenges. We strive to cultivate shared responsibility and global citizenship, with the ultimate goal of creating a just, equitable, and sustainable world. This repository is a testament to our commitment, serving as an open-source platform for diverse and expanding learning paths in political education.
 
 ## Learning Paths
 
-The World Academy of Politics offers a variety of learning paths, each focusing on a different aspect of politics. Each learning path is designed to provide a comprehensive understanding of its topic, and includes a series of modules that you can follow at your own pace. 
+Our learning paths, meticulously designed and regularly updated, cater to a broad range of interests and educational needs. Here are some of the paths currently available:
 
-Here are some of the learning paths we currently offer:
+1. **Introduction to Political Science**: Acquire a foundational understanding of political systems, ideologies, and institutions.
+2. **Comparative Politics**: Engage in the analysis and comparison of different political systems and governance models across the globe.
+3. **Political Philosophy**: Traverse the philosophical landscape of politics, from classical theories to contemporary thought.
+4. **International Relations**: Navigate the complex realm of international politics, diplomacy, and global governance.
 
-1. **Introduction to Politics**: Understand the basics of politics, including political systems, ideologies, and key concepts.
-2. **International Relations**: Dive into the dynamics of international politics, exploring theories of international relations, diplomacy, and global conflicts.
-3. **Political Philosophy**: Explore the philosophical underpinnings of politics, studying the works of key political philosophers and their impact on modern political thought.
-4. **Public Policy**: Learn about the process of creating public policy, including policy analysis, implementation, and evaluation.
+As an evolving platform, we are constantly adding new learning paths and updating our current offerings to provide a dynamic and comprehensive learning experience.
 
-We are constantly working on expanding our offerings, so stay tuned for more learning paths in the future!
+## How to Contribute
 
-## Contributing
+Contributions are the lifeblood of our initiative, and we welcome everyone, regardless of their political beliefs or affiliations. Here are several ways you can contribute:
 
-We welcome contributions from everyone. Whether you're a student, teacher, professional, or just someone interested in politics, your perspective and knowledge can help make this project better. 
+1. **Content creation**: Contribute to the expansion of our learning paths or enhance the existing ones.
+2. **Translation**: Aid us in extending our reach to non-English speakers by providing translations.
+3. **Proofreading**: Assist in maintaining the integrity of our content by identifying and correcting errors and inconsistencies.
+4. **Ideas**: Propose innovative ideas and constructive suggestions to enrich the Academy.
 
-You can contribute in several ways:
+Before contributing, we highly recommend reviewing our [Contribution Guidelines](https://github.com/worlddemocrats/academy/blob/main/CONTRIBUTING.md) for a smooth and productive collaboration.
 
-- **Content Creation**: Help us create and improve the learning materials. This could involve writing new content, improving existing content, or creating multimedia materials like videos or infographics.
-- **Code Contributions**: Help us improve the codebase of this project. This could involve fixing bugs, improving the UI/UX, or adding new features.
-- **Feedback**: Provide feedback on the learning materials and the platform. Your feedback can help us improve the learning experience for everyone.
+## Code of Conduct
 
-Please see our [Contributing Guide](CONTRIBUTING.md) for more details on how you can contribute to this project.
+Respect and courtesy form the bedrock of our community interactions. We are committed to fostering a positive and enriching experience for all participants. To ensure this, all members, delegates, volunteers, and vendors involved in the World Academy of Politics are required to adhere to our [Code of Conduct](https://github.com/worlddemocrats/academy/blob/main/CODE_OF_CONDUCT.md).
 
 ## Community
 
-We believe in the power of community and collaboration. We encourage you to join our [Discord server](https://discord.gg/yourdiscordlink) or [Facebook group](https://yourworkspace.slack.com) to connect with other learners, share your progress, ask questions, and engage in discussions.
-
-## License
-
-This project is licensed under the [Creative Commons CC0 1.0 Universal License](LICENSE.md). This means you're free to use, modify, and distribute the project, as long as you provide attribution back to us and don’t hold us liable.
+Community engagement is integral to our initiative. We encourage learners to interact, share insights, and learn from each other. Join our [Facebook group](FACEBOOK_GROUP_LINK) and our [Discord server](TWITTER_LINK) to connect with fellow learners and participate in lively discussions.
 
 ## Contact
 
-If you have any questions, suggestions, or just want to say hi, feel free to contact us at [academy@worlddemocrats.org](mailto:academy@worlddemocrats.org).
+Should you have any queries or suggestions, we invite you to reach out to us at [academy@worlddemocrats.org](mailto:academy@worlddemocrats.org). Your feedback is invaluable to us.
 
-Join us in our mission to democratize political education!
+## License
+
+All materials in this repository are licensed under the [Creative Commons CC0 1.0 Universal License](https://github.com/worlddemocrats/academy/blob/main/LICENSE). This license provides you with the freedom to use, adapt, and share our resources without restrictions.
+
+---
+
+The World Academy of Politics is a dynamic and evolving initiative. With your support and contributions, we can democratize political education and make it universally accessible. We cordially invite you to join us on this enlightening journey!
