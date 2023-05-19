@@ -1,6 +1,6 @@
 # World Academy of Politics
 
-Welcome to the World Academy of Politics, an open-source initiative of the World Democrats. Our goal is to provide comprehensive, accessible, and free education to anyone interested in understanding the complexities of politics.
+Welcome to the World Academy of Politics, an open-source initiative of the [World Democrats](https://github.com/worlddemocrats/federation). Our goal is to provide comprehensive, accessible, and free education to anyone interested in understanding the complexities of politics.
 
 ## Our Mission
 
