@@ -1,6 +1,6 @@
-# World Political Academy
+# World Academy of Politics
 
-Welcome to the World Political Academy on GitHub! This repository is dedicated to providing comprehensive learning paths in various areas of politics and political science. Whether you're a student, researcher, or simply interested in understanding the complexities of the political world, our academy offers a range of learning paths to suit your interests.
+Welcome to the World Academy of Politics on GitHub! This repository is dedicated to providing comprehensive learning paths in various areas of politics and political science. Whether you're a student, researcher, or simply interested in understanding the complexities of the political world, our academy offers a range of learning paths to suit your interests.
 
 ## Learning Paths
 
@@ -68,4 +68,4 @@ This repository is licensed under the [MIT License](LICENSE), granting you the f
 
 To get started with a specific learning path, simply navigate to the corresponding directory and explore the available resources and materials.
 
-We hope you find the World Political Academy a valuable resource for your political education and exploration. Happy learning!
+We hope you find the World Academy of Politics a valuable resource for your political education and exploration. Happy learning!
