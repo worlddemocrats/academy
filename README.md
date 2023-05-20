@@ -39,7 +39,3 @@ Should you have any queries or suggestions, we invite you to reach out to us at 
 ## License
 
 All materials in this repository are licensed under the [Creative Commons CC0 1.0 Universal License](https://github.com/worlddemocrats/academy/blob/main/LICENSE). This license provides you with the freedom to use, adapt, and share our resources without restrictions.
-
----
-
-The World Academy of Politics is a dynamic and evolving initiative. With your support and contributions, we can democratize political education and make it universally accessible.
