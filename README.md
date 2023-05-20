@@ -26,11 +26,11 @@ Contributions are the lifeblood of our initiative, and we welcome everyone, rega
 3. **Proofreading**: Assist in maintaining the integrity of our content by identifying and correcting errors and inconsistencies.
 4. **Ideas**: Propose innovative ideas and constructive suggestions to enrich the Academy.
 
-Before contributing, we highly recommend reviewing our [Contribution Guidelines](https://github.com/worlddemocrats/academy/blob/main/CONTRIBUTING.md) for a smooth and productive collaboration.
+Before contributing, we highly recommend reviewing our [Contribution Guidelines](CONTRIBUTING.md) for a smooth and productive collaboration.
 
 ## Code of Conduct
 
-We are committed to fostering an inclusive, respectful, and supportive environment for all contributors. All participants in our project are expected to uphold our [Code of Conduct](https://github.com/worlddemocrats/academy/blob/main/CODE_OF_CONDUCT.md), which outlines the community guidelines and expectations.
+We are committed to fostering an inclusive, respectful, and supportive environment for all contributors. All participants in our project are expected to uphold our [Code of Conduct](CODE_OF_CONDUCT.md), which outlines the community guidelines and expectations.
 
 ## Contact
 
@@ -38,4 +38,4 @@ Should you have any queries or suggestions, we invite you to reach out to us at 
 
 ## License
 
-All materials in this repository are licensed under the [Creative Commons CC0 1.0 Universal License](https://github.com/worlddemocrats/academy/blob/main/LICENSE). This license provides you with the freedom to use, adapt, and share our resources without restrictions.
+All materials in this repository are licensed under the [Creative Commons CC0 1.0 Universal License](LICENSE). This license provides you with the freedom to use, adapt, and share our resources without restrictions.
