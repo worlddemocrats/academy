@@ -15,7 +15,7 @@ As an evolving platform, we are constantly adding new learning paths and updatin
 
 ## Community
 
-Community engagement is integral to our initiative. We encourage learners to interact, share insights, and learn from each other. Join our [Facebook group](FACEBOOK_GROUP_LINK) and our [Discord server](TWITTER_LINK) to connect with fellow learners and participate in lively discussions.
+Community engagement is integral to our initiative. We encourage learners to interact, share insights, and learn from each other. Join our [Discord server](https://discord.gg/KhuwtTPnXa) and our [Facebook group](https://www.facebook.com/groups/worlddemocrats) to connect with fellow learners and participate in lively discussions.
 
 ## How to Contribute
 
