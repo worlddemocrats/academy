@@ -18,11 +18,12 @@ There are several ways you can contribute to this project:
 
 Here are a few guidelines to keep in mind when contributing:
 
-- **Respect the purpose of this project:** The goal of the World Academy of Politics is to provide free, high-quality political education. Any resources or changes you propose should support this goal.
+- **Promote Open Access Education**: Our mission is to curate and share educational resources that are freely accessible online. When suggesting content, please ensure it is available to the public at no cost and aligns with our commitment to open access education.
 
-- **Keep content neutral and fact-based:** Politics can be a sensitive topic. Please ensure that any content you contribute is neutral, fact-based, and respectful of different viewpoints.
+- **Uphold Quality Standards**: Our objective is to provide top-tier political education. Content contributions should be well-written, meticulously researched, and demonstrably beneficial for learning purposes.
 
-- **Maintain high standards:** We aim to provide high-quality education. Please ensure any content you contribute is well-written, well-researched, and valuable for learning.
+- **Endorse Objective and Fact-Based Content**: Politics often incites passionate debates. We ask that your contributions remain neutral, grounded in facts, and respectful of diverse perspectives to maintain a balanced and informative learning environment.
+
 
 ## Submitting a Contribution
 
@@ -31,7 +32,14 @@ To submit a contribution:
 1. Fork the repo.
 2. Create your branch from `main`.
 3. Make your changes.
-4. Submit a pull request with a detailed explanation of your changes.
+4. Submit a pull request with the following details:
+    - A summary of the changes you've made.
+    - The reasons you believe these changes will enhance the project.
+    - Any additional information that could help us understand your contribution better.
+
+## Code of Conduct
+
+By participating in this project, you agree to abide by the [Code of Conduct](CODE_OF_CONDUCT.md). Please read it before contributing. We are committed to making participation in this project a respectful and inclusive experience for everyone.
 
 ## Contact
 
