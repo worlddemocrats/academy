@@ -1,4 +1,4 @@
-# Contribution Guidelines
+# Contribution Guide
 
 Thank you for considering contributing to the World Academy of Politics. It's through the efforts of individuals like you that we can provide high-quality political education freely available to all.
 
