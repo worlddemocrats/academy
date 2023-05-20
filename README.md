@@ -7,7 +7,7 @@ Welcome to the World Academy of Politics, a collaborative initiative to provide 
 This repository contains a collection of learning paths that guide you through various topics in politics. Here are some of the paths currently available:
 
 1. **Introduction to Political Science**: Acquire a foundational understanding of political systems, ideologies, and institutions.
-2. **Comparative Politics**: Engage in the analysis and comparison of different political systems and governance models across the globe.
+2. **Comparative Politics**: Engage in the analysis and comparison of different political systems and governance models.
 3. **Political Philosophy**: Traverse the philosophical landscape of politics, from classical theories to contemporary thought.
 4. **International Relations**: Navigate the complex realm of international politics, diplomacy, and global governance.
 
