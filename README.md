@@ -26,7 +26,7 @@ Contributions are the lifeblood of our initiative, and we welcome everyone, rega
 3. **Proofreading**: Assist in maintaining the integrity of our content by identifying and correcting errors and inconsistencies.
 4. **Ideas**: Propose innovative ideas and constructive suggestions to enrich the Academy.
 
-Before contributing, we highly recommend reviewing our [Contribution Guidelines](CONTRIBUTING.md) for a smooth and productive collaboration.
+Before contributing, we highly recommend reviewing our [Contribution Guide](CONTRIBUTING.md) for a smooth and productive collaboration.
 
 ## Code of Conduct
 
