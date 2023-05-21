@@ -18,6 +18,10 @@ A curated list of world-class resources, tools, and organizations for understand
 - [America's Founding Documents](https://www.archives.gov/founding-docs) - This resource provides access to America's founding documents, including the Declaration of Independence, the Constitution of the United States, and the Bill of Rights.
 - [Guide to Government](https://www.guidetogovernment.org/) - A comprehensive guide to understanding government and constitutional design.
 - [Constitute](https://www.constituteproject.org/) - A comprehensive analysis of the world's constitutions, supporting constitutional design and informing citizens.
+- [Stanford Encyclopedia of Philosophy: Constitutionalism](https://plato.stanford.edu/entries/constitutionalism): A comprehensive exploration of constitutionalism, its history, core concepts, and forms.
+- [The National Constitution Center's Interactive Constitution](https://constitutioncenter.org/interactive-constitution): Detailed analysis and expert commentary on each provision of the U.S. Constitution, with resources for educators.
+- [Constitution Making for Peace Program](https://www.interpeace.org/constitution-making-for-peace-1): Provides resources on constitution-making in post-conflict settings, including research papers, case studies, and guidance notes.
+- [U.S. Archives: Constitution of the United States](https://www.archives.gov/founding-docs/constitution): Full text of the U.S. Constitution and its amendments, as well as historical documents related to its creation.
 
 ## Online Courses
 
