@@ -4,10 +4,16 @@ Welcome to the World Academy of Politics, an initiative dedicated to providing f
 
 ## Curricula
 
-Initially, our offerings cover the following foundational disciplines:
+Initially, our offerings cover the following disciplines:
+
+- [**Computational Political Leadership**](https://github.com/worlddemocrats/academy/blob/main/curricula/COMPUTATIONAL_POLITICAL_LEADERSHIP.md): This curriculum combines computational analysis with leadership principles, preparing future leaders to leverage technology in making informed, data-driven decisions.
+
+- [**Computational Political Science**](https://github.com/worlddemocrats/academy/blob/main/curricula/COMPUTATIONAL_POLITICAL_SCIENCE.md): This course provides a deep understanding of political systems and processes, supplemented by computational methods for analysis, prediction, and decision-making.
 
 - [**International Relations**](https://github.com/worlddemocrats/academy/blob/main/curricula/INTERNATIONAL_RELATIONS.md): This curriculum provides a deep dive into global politics, international cooperation, and key issues like security and human rights.
+
 - [**Political Science**](https://github.com/worlddemocrats/academy/blob/main/curricula/POLITICAL_SCIENCE.md): Explore the world of governance, political theory, and processes, and understand the functioning of political systems and their impact on daily life.
+
 - [**Public Law**](https://github.com/worlddemocrats/academy/blob/main/curricula/PUBLIC_LAW.md): Explore core aspects of law including administrative, constitutional, international, and tax law.
 
 More curricula will be added in the future to expand the breadth of our academy.
