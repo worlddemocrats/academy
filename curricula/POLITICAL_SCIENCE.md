@@ -1,36 +1,40 @@
 # Political Science Curriculum
 
 ## Introductory Courses
-
 - Introduction to Political Science
+- Modern Political Ideologies
+- Introduction to Comparative Politics
 - Introduction to International Relations
-- Comparative Politics
-- Political Philosophy: Ancient and Medieval
-- American Government and Politics
 
 ## Core Courses
-
-- Political Philosophy: Modern 
-- Introductory Research Methods in Political Science
-- Political Sociology
-- Introduction to Public Policy
+- Political Theory
+- Politics of Developed and Developing Nations
+- Introduction to Public Policy and Administration
+- International Organizations and Global Governance
+- Research Methods in Political Science
+- Politics and Government in the United States
 - International Political Economy
-- Political Behavior
-- Advanced Research Methods in Political Science
-- Political Theory: Contemporary
-- Public Administration
-- International Organizations and Law
+- Comparative Government and Politics
 
 ## Advanced Courses
-
-- Seminar in American Politics
-- Comparative Government and Politics
-- Seminar in International Relations
-- Political Science Elective (e.g., Politics of Developing Countries)
-- Political Science Elective (e.g., Gender and Politics)
-- Political Science Elective (e.g., Environmental Politics)
-- Political Science Elective (e.g., Middle Eastern Politics)
+- Contemporary Political Thought
+- Comparative Political Systems
+- American Foreign Policy
+- Politics of Europe
+- Politics of Asia
+- Politics of the Middle East
+- Public Opinion and Voting Behavior
+- Human Rights in International Politics
+- Conflict and Peace Studies
+- Political Economy of Development
+- Gender and Politics
+- Environmental Politics and Policy
+- Politics of Migration and Refugees
+- Democratic Theory and Practice
+- The Politics of International Law
+- Political Communication and Media
 
 ## Final Project
-
-- Political Science Capstone / Thesis
+- Seminar on Current Political Issues
+- Senior Thesis/Project
+- Capstone Course in Political Science
