@@ -1,6 +1,6 @@
 # World Academy of Politics
 
-Welcome to the World Academy of Politics, the initiative dedicated to providing free, high-quality online education for the leaders of the future.
+Welcome to the World Academy of Politics, the initiative dedicated to providing free, top-quality online education for the leaders of the future.
 
 ## Curricula
 
