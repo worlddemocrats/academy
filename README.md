@@ -1,14 +1,16 @@
 # World Academy of Politics
 
-Welcome to the World Academy of Politics, an initiative dedicated to offering free, world-class online education for future leaders. We provide guides with courses among the very best in the world, empowering individuals to learn the curriculum of an undergraduate degree at their own pace, in an environment that suits them best.
+Welcome to the World Academy of Politics, an initiative dedicated to offering free, top-quality online education for future leaders. We provide guides with courses among the best in the world, empowering individuals to learn the curriculum of an undergraduate degree at their own pace, in an environment that suits them best.
 
 ## Curricula
 
 Initially, our educational offerings cover the following foundational disciplines:
 
-- International Relations
-- Law
-- Political Science
+- **International Relations**: This course offers a deep dive into global politics, international cooperation, and key issues like security and human rights.
+
+- **Law**: Gain a solid foundation in law, covering aspects like constitutional, criminal, contract, and international law, along with insights into legal reasoning and systems.
+
+- **Political Science**: Explore the world of governance, political theory, and processes, and understand the functioning of political systems and their impact on daily life.
 
 More subjects will be added in the future to broaden the scope of our academy.
 
