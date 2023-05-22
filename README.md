@@ -6,7 +6,7 @@ Welcome to the World Academy of Politics, an initiative dedicated to providing f
 
 Initially, our offerings cover the following foundational disciplines:
 
-- **International Relations**: This course provides a deep dive into global politics, international cooperation, and key issues like security and human rights.
+- [**International Relations**](https://github.com/worlddemocrats/academy/blob/main/curricula/INTERNATIONAL_RELATIONS.md): This course provides a deep dive into global politics, international cooperation, and key issues like security and human rights.
 
 - **Law**: Gain a solid foundation in law, covering aspects like constitutional, criminal, contract, and international law, along with insights into legal reasoning and systems.
 
