@@ -1,10 +1,10 @@
 # World Academy of Politics
 
-Welcome to the World Academy of Politics, an initiative dedicated to providing free, top-quality online education for future leaders. We offer guides with courses among the very best in the world, empowering people to learn the curriculum of an undergraduate degree at their own pace and in a setting that best suits their needs.
+Welcome to the World Academy of Politics, an initiative dedicated to offering free, world-class online education for future leaders. We provide guides with courses among the very best in the world, empowering individuals to learn the curriculum of an undergraduate degree at their own pace, in an environment that suits them best.
 
 ## Curricula
 
-Our initial educational offerings cover the following foundational areas:
+Initially, our educational offerings cover the following foundational disciplines:
 
 - International Relations
 - Law
@@ -18,14 +18,14 @@ Fostering a vibrant community is at the heart of our mission. We invite learners
 
 ## How to Contribute
 
-Your contributions drive our initiative, and we welcome everyone, regardless of their political beliefs or affiliations. Here are several ways you can contribute:
+We welcome and value contributions from everyone, irrespective of their political beliefs or affiliations. Here are a few ways you can contribute:
 
-1. **Content creation**: Help expand our curricula or enhance the existing ones.
+1. **Content creation**: Help in expanding or enhancing our curricula.
 2. **Translation**: Assist in reaching non-English speakers by providing translations.
 3. **Proofreading**: Ensure the quality of our content by identifying and correcting errors.
-4. **Ideas**: Propose innovative ideas and constructive suggestions to enhance our academy.
+4. **Ideas**: Propose innovative ideas and constructive suggestions to improve our academy.
 
-Before contributing, please review our [Contribution Guide](CONTRIBUTING.md) to ensure a smooth and productive collaboration.
+Before contributing, we encourage you to review our [Contribution Guide](CONTRIBUTING.md) to ensure a smooth and productive collaboration.
 
 ## Code of Conduct
 
@@ -41,4 +41,4 @@ All materials in this repository are licensed under the [Creative Commons CC0 1.
 
 ## Acknowledgments 
 
-We extend our sincerest gratitude to the Open Source Society University. Their pioneering work in open-source education has been the inspiration behind this initiative.
+We express our deepest gratitude to the Open Source Society University. Their pioneering work in open-source education served as the inspiration behind this initiative.
