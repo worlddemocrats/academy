@@ -1,37 +1,39 @@
 # World Academy of Politics
 
-Welcome to the World Academy of Politics, an initiative dedicated to providing free, top-quality online education for the emerging leaders of the future. We offer guides with courses among the very best in the world, empowering you to learn the curriculum of an undergraduate degree at a pace and setting that best suits your needs.
+Welcome to the World Academy of Politics, an initiative dedicated to providing free, top-quality online education for future leaders. We offer guides with courses among the very best in the world, empowering people to learn the curriculum of an undergraduate degree at their own pace and in a setting that best suits their needs.
 
 ## Curricula
 
-To begin with, our educational repertoire will cover the following foundational curricula:
+Our initial educational offerings cover the following foundational areas:
 
 - International Relations
 - Law
 - Political Science
 
+More subjects will be added in the future to broaden the scope of our academy.
+
 ## Community
 
-Community engagement is a core part of our initiative. We encourage learners to interact, share insights, and learn from each other. Join our [Discord server](https://discord.gg/KhuwtTPnXa) and our [Facebook group](https://www.facebook.com/groups/worlddemocrats) to connect with fellow learners and participate in vibrant discussions.
+Fostering a vibrant community is at the heart of our mission. We invite learners to interact, share insights, and grow together. Join our [Discord server](https://discord.gg/KhuwtTPnXa) and [Facebook group](https://www.facebook.com/groups/worlddemocrats) to engage in meaningful discussions and form connections with fellow learners.
 
 ## How to Contribute
 
 Your contributions drive our initiative, and we welcome everyone, regardless of their political beliefs or affiliations. Here are several ways you can contribute:
 
-1. **Content creation**: Participate in the growth of our curricula or enhance the existing ones.
-2. **Translation**: Help us reach non-English speakers by providing translations.
-3. **Proofreading**: Assist in maintaining the quality of our content by identifying and correcting errors and inconsistencies.
-4. **Ideas**: Propose innovative ideas and constructive suggestions to enrich the Academy.
+1. **Content creation**: Help expand our curricula or enhance the existing ones.
+2. **Translation**: Assist in reaching non-English speakers by providing translations.
+3. **Proofreading**: Ensure the quality of our content by identifying and correcting errors.
+4. **Ideas**: Propose innovative ideas and constructive suggestions to enhance our academy.
 
-Before contributing, we highly recommend reviewing our [Contribution Guide](CONTRIBUTING.md) to ensure a smooth and productive collaboration.
+Before contributing, please review our [Contribution Guide](CONTRIBUTING.md) to ensure a smooth and productive collaboration.
 
 ## Code of Conduct
 
-We are committed to fostering an inclusive, respectful, and supportive environment for all contributors. All participants in our project are expected to uphold our [Code of Conduct](CODE_OF_CONDUCT.md), which sets the community guidelines and expectations.
+To foster an inclusive, respectful, and supportive environment, all contributors are expected to uphold our [Code of Conduct](CODE_OF_CONDUCT.md). This document outlines the community guidelines and expectations that all participants should follow.
 
 ## Contact
 
-Should you have any queries or suggestions, we invite you to reach out to us at [academy@worlddemocrats.org](mailto:academy@worlddemocrats.org). Your feedback is invaluable to us.
+Should you have any questions or suggestions, please reach out to us at [academy@worlddemocrats.org](mailto:academy@worlddemocrats.org).
 
 ## License
 
@@ -39,4 +41,4 @@ All materials in this repository are licensed under the [Creative Commons CC0 1.
 
 ## Acknowledgments 
 
-We extend our sincerest gratitude to the Open Source Society University. The original concept behind this initiative was inspired by their groundbreaking work in open source education.
+We extend our sincerest gratitude to the Open Source Society University. Their pioneering work in open-source education has been the inspiration behind this initiative.
