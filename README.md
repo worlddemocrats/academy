@@ -1,16 +1,14 @@
 # World Academy of Politics
 
-Welcome to the World Academy of Politics, the initiative dedicated to offering free, high-quality online education to the leaders of the future.
+Welcome to the World Academy of Politics, the initiative dedicated to providing free, high-quality online education for the leaders of the future.
 
 ## Curricula
 
-Here are the curricula currently on offer:
+Striving to offer a comprehensive understanding of concepts fundamental to disciplines related to politics, we design each curriculum to align with the degree requirements of the respective undergraduate majors. To begin with, our educational repertoire will cover the following foundational curricula:
 
-- **Law**: Dive deep into legal systems, principles, and their application.
-- **Political Science**: Develop a foundational understanding of political ideologies, systems, and institutions.
-- **Economics**: Delve into the intersection of economics and politics, understanding economic systems, fiscal policy, and economic theory.
-
-We are continuously expanding and updating our educational resources to ensure a dynamic and comprehensive learning experience.
+- International Relations
+- Law
+- Political Science
 
 ## Community
 
@@ -38,3 +36,7 @@ Should you have any queries or suggestions, we invite you to reach out to us at 
 ## License
 
 All materials in this repository are licensed under the [Creative Commons CC0 1.0 Universal License](LICENSE), giving you the freedom to use, adapt, and share our resources without restrictions.
+
+## Acknowledgments 
+
+We extend our sincerest gratitude to the Open Source Society University. The original concept behind this initiative was inspired by their groundbreaking work in open source education.
