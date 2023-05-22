@@ -1,18 +1,18 @@
 # World Academy of Politics
 
-Welcome to the World Academy of Politics, an initiative dedicated to offering free, top-quality online education for future leaders. We provide guides with courses among the best in the world, empowering individuals to learn the curriculum of an undergraduate degree at their own pace, in an environment that suits them best.
+Welcome to the World Academy of Politics, an initiative dedicated to providing free, top-quality online education for future leaders. We offer comprehensive guides with world-class courses, empowering learners to pursue an undergraduate-level curriculum at their own pace.
 
 ## Curricula
 
-Initially, our educational offerings cover the following foundational disciplines:
+Initially, our offerings cover the following foundational disciplines:
 
-- **International Relations**: This course offers a deep dive into global politics, international cooperation, and key issues like security and human rights.
+- **International Relations**: This course provides a deep dive into global politics, international cooperation, and key issues like security and human rights.
 
 - **Law**: Gain a solid foundation in law, covering aspects like constitutional, criminal, contract, and international law, along with insights into legal reasoning and systems.
 
 - **Political Science**: Explore the world of governance, political theory, and processes, and understand the functioning of political systems and their impact on daily life.
 
-More subjects will be added in the future to broaden the scope of our academy.
+More curricula will be added in the future to expand the breadth of our academy.
 
 ## Community
 
@@ -37,10 +37,11 @@ To foster an inclusive, respectful, and supportive environment, all contributors
 
 Should you have any questions or suggestions, please reach out to us at [academy@worlddemocrats.org](mailto:academy@worlddemocrats.org).
 
+## Acknowledgments 
+
+We express our deepest gratitude to the Open Source Society University. Their pioneering work in open-source education served as the inspiration behind this initiative.
+
 ## License
 
 All materials in this repository are licensed under the [Creative Commons CC0 1.0 Universal License](LICENSE), giving you the freedom to use, adapt, and share our resources without restrictions.
 
-## Acknowledgments 
-
-We express our deepest gratitude to the Open Source Society University. Their pioneering work in open-source education served as the inspiration behind this initiative.
