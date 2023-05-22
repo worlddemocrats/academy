@@ -1,10 +1,10 @@
 # World Academy of Politics
 
-Welcome to the World Academy of Politics, the initiative dedicated to providing free, top-quality online education for the leaders of the future.
+Welcome to the World Academy of Politics, an initiative dedicated to providing free, top-quality online education for the emerging leaders of the future. We offer guides with courses among the very best in the world, empowering you to learn the curriculum of an undergraduate degree at a pace and setting that best suits your needs.
 
 ## Curricula
 
-Striving to offer a comprehensive understanding of concepts fundamental to disciplines related to politics, we design each curriculum to align with the degree requirements of the respective undergraduate majors. To begin with, our educational repertoire will cover the following foundational curricula:
+To begin with, our educational repertoire will cover the following foundational curricula:
 
 - International Relations
 - Law
