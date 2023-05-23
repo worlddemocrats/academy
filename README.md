@@ -4,7 +4,7 @@ Welcome to the World Academy of Politics, an initiative to provide free, top-qua
 
 ## Curricula
 
-Initially, our offerings will cover the following disciplines:
+Initially, our offerings will cover the following domains:
 
 - [**Computational Political Leadership**](https://github.com/worlddemocrats/academy/blob/main/curricula/COMPUTATIONAL_POLITICAL_LEADERSHIP.md)
 - [**Computational Political Science**](https://github.com/worlddemocrats/academy/blob/main/curricula/COMPUTATIONAL_POLITICAL_SCIENCE.md)
